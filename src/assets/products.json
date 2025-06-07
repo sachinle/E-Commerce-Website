@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "title": "iPhone 13 Pro",
+    "price": 85000,
+    "description": "The iPhone 13 Pro features a stunning Super Retina XDR display with ProMotion, A15 Bionic chip, and pro camera system.",
+    "category": "smartphones",
+    "image": "https://m.media-amazon.com/images/I/61jLiCovxVL._AC_SX679_.jpg",
+    "rating": {
+      "rate": 4.8,
+      "count": 120,
+      "bought": "1k bought in the last 30 days"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Sony WH-1000XM4",
+    "price": 75000,
+    "description": "Industry-leading noise canceling over-ear headphones with next-level music playback and Alexa voice control.",
+    "category": "headphones",
+    "image": "https://m.media-amazon.com/images/I/31+1OdrDX+L._SY300_SX300_.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 85,
+      "bought": "500 bought in the last 30 days"
+    }
+  },
+  {
+    "id": 3,
+    "title": "MacBook Pro 14-inch",
+    "price": 100000,
+    "description": "With the M1 Pro or M1 Max chip, the MacBook Pro delivers exceptional performance for professionals.",
+    "category": "laptops",
+    "image": "https://m.media-amazon.com/images/I/61aUBxqc5PL._AC_SX679_.jpg",
+    "rating": {
+      "rate": 4.9,
+      "count": 65,
+      "bought": "300 bought in the last 30 days"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Samsung 55-inch QLED TV",
+    "price": 90000,
+    "description": "Quantum Dot technology delivers 100% color volume with brilliant brightness and lifelike color.",
+    "category": "televisions",
+    "image": "https://m.media-amazon.com/images/I/71vZypjNkPS._AC_SX679_.jpg",
+    "rating": {
+      "rate": 4.6,
+      "count": 210,
+      "bought": "800 bought in the last 30 days"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Nike Air Force 1",
+    "price": 20000,
+    "description": "The radiance lives on in the Nike Air Force 1 '07, the b-ball icon that puts a fresh spin on what you know best.",
+    "category": "shoes",
+    "image": "https://m.media-amazon.com/images/I/61TwoZHTxNL._SY575_.jpg",
+    "rating": {
+      "rate": 4.5,
+      "count": 320,
+      "bought": "1.5k bought in the last 30 days"
+    }
+  },
+  {
+    "id": 6,
+    "title": "Apple Watch Series 7",
+    "price": 50000,
+    "description": "The most advanced Apple Watch features a larger, more advanced display, faster charging, and the most durable glass yet.",
+    "category": "smartwatches",
+    "image": "https://m.media-amazon.com/images/I/41DeVlJI0WL._SY445_SX342_QL70_FMwebp_.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 180,
+      "bought": "600 bought in the last 30 days"
+    }
+  },
+  {
+    "id": 7,
+    "title": "Dell XPS 13",
+    "price": 75000,
+    "description": "A compact, high-performance laptop with Intel i7 processor, perfect for work and creativity.",
+    "category": "laptops",
+    "image": "https://m.media-amazon.com/images/I/71wF7YDIQkL._AC_SX679_.jpg",
+    "rating": {
+      "rate": 4.6,
+      "count": 90,
+      "bought": "400 bought in the last 30 days"
+    }
+  },
+  {
+    "id": 8,
+    "title": "Canon EOS M50 Mark II",
+    "price": 120000,
+    "description": "Capture stunning images and 4K video with this compact, mirrorless DSLR camera.",
+    "category": "cameras",
+    "image": "https://m.media-amazon.com/images/I/81mxun+6pEL._AC_SX679_.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 150,
+      "bought": "700 bought in the last 30 days"
+    }
+  },
+  {
+    "id": 9,
+    "title": "Logitech MX Master 3",
+    "price": 2500,
+    "description": "Advanced wireless mouse with ultra-fast scrolling and ergonomic design for productivity.",
+    "category": "accessories",
+    "image": "https://m.media-amazon.com/images/I/61ni3t1ryQL._AC_SX679_.jpg",
+    "rating": {
+      "rate": 4.8,
+      "count": 200,
+      "bought": "900 bought in the last 30 days"
+    }
+  },
+  {
+    "id": 10,
+    "title": "Amazon Echo Dot (5th Gen)",
+    "price": 6250,
+    "description": "Smart speaker with Alexa – control smart home, stream music, and get news updates.",
+    "category": "smart-devices",
+    "image": "https://m.media-amazon.com/images/I/81VttNsrDwL._SX679_.jpg",
+    "rating": {
+      "rate": 4.6,
+      "count": 340,
+      "bought": "1.2k bought in the last 30 days"
+    }
+  }
+]
