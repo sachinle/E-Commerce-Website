@@ -140,7 +140,7 @@ export default {
 }
 
 .premium-btn-back:hover {
-  background-color: #f3f4f6;
+  background-color: #000000;
   transform: translateX(-4px);
 }
 

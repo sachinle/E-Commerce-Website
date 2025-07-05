@@ -131,28 +131,132 @@
   },
   {
     "id": 11,
-    "title": "Amazon Echo Dot (5th Gen)",
-    "price": 6250,
-    "description": "Smart speaker with Alexa – control smart home, stream music, and get news updates.",
-    "category": "smart-devices",
-    "image": "https://m.media-amazon.com/images/I/81VttNsrDwL._SX679_.jpg",
+    "title": "Sony PlayStation 5",
+    "price": 55000,
+    "description": "Next-gen gaming console with ultra-high speed SSD, haptic feedback, and 3D audio.",
+    "category": "gaming",
+    "image": "https://m.media-amazon.com/images/I/51ljnEaW0pL._SL1000_.jpg",
     "rating": {
-      "rate": 4.6,
-      "count": 340,
-      "bought": "1.2k bought in the last 30 days"
+      "rate": 4.9,
+      "count": 420,
+      "bought": "2.5k bought in the last 30 days"
     }
   },
   {
     "id": 12,
-    "title": "Amazon Echo Dot (5th Gen)",
-    "price": 6250,
-    "description": "Smart speaker with Alexa – control smart home, stream music, and get news updates.",
-    "category": "smart-devices",
-    "image": "https://m.media-amazon.com/images/I/81VttNsrDwL._SX679_.jpg",
+    "title": "Bose QuietComfort Earbuds",
+    "price": 28000,
+    "description": "Industry-leading noise cancelling true wireless earbuds with premium sound quality.",
+    "category": "headphones",
+    "image": "https://m.media-amazon.com/images/I/51Q6t7gD1eL._SL1000_.jpg",
     "rating": {
       "rate": 4.6,
-      "count": 340,
-      "bought": "1.2k bought in the last 30 days"
+      "count": 380,
+      "bought": "1.8k bought in the last 30 days"
+    }
+  },
+  {
+    "id": 13,
+    "title": "Samsung Galaxy S22 Ultra",
+    "price": 95000,
+    "description": "Flagship smartphone with S Pen, 108MP camera, and all-day intelligent battery.",
+    "category": "smartphones",
+    "image": "https://m.media-amazon.com/images/I/61HHS0HrjpL._AC_SX679_.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 290,
+      "bought": "1.3k bought in the last 30 days"
+    }
+  },
+  {
+    "id": 14,
+    "title": "Dyson V15 Detect Vacuum",
+    "price": 65000,
+    "description": "Cordless vacuum with laser dust detection, powerful suction, and HEPA filtration.",
+    "category": "home-appliances",
+    "image": "https://m.media-amazon.com/images/I/61bXGHeYuhL._SX569_.jpg",
+    "rating": {
+      "rate": 4.8,
+      "count": 180,
+      "bought": "850 bought in the last 30 days"
+    }
+  },
+  {
+    "id": 15,
+    "title": "Apple AirPods Pro (2nd Gen)",
+    "price": 25000,
+    "description": "Active noise cancellation, adaptive transparency, and personalized spatial audio.",
+    "category": "earbuds",
+    "image": "https://m.media-amazon.com/images/I/61SUj2aKoEL._AC_SX679_.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 520,
+      "bought": "2.2k bought in the last 30 days"
+    }
+  },
+  {
+    "id": 16,
+    "title": "LG 55-inch OLED TV",
+    "price": 120000,
+    "description": "Self-lit pixels deliver perfect black, intense color, and infinite contrast.",
+    "category": "televisions",
+    "image": "https://m.media-amazon.com/images/I/81d2WyGlYUL._SL1500_.jpg",
+    "rating": {
+      "rate": 4.9,
+      "count": 150,
+      "bought": "600 bought in the last 30 days"
+    }
+  },
+  {
+    "id": 17,
+    "title": "Microsoft Surface Pro 9",
+    "price": 110000,
+    "description": "Ultra-light and versatile 2-in-1 laptop with 12th Gen Intel Core processor.",
+    "category": "laptops",
+    "image": "https://m.media-amazon.com/images/I/51+iKnnyQeL._SL1080_.jpg",
+    "rating": {
+      "rate": 4.6,
+      "count": 95,
+      "bought": "350 bought in the last 30 days"
+    }
+  },
+  {
+    "id": 18,
+    "title": "GoPro HERO11 Black",
+    "price": 45000,
+    "description": "5.3K video, 27MP photos, HyperSmooth 5.0 stabilization, and waterproof design.",
+    "category": "cameras",
+    "image": "https://m.media-amazon.com/images/I/51t6c5t0nDL._SL1500_.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 210,
+      "bought": "950 bought in the last 30 days"
+    }
+  },
+  {
+    "id": 19,
+    "title": "Adidas Ultraboost 22",
+    "price": 15000,
+    "description": "Running shoes with responsive cushioning and energy-returning Boost technology.",
+    "category": "shoes",
+    "image": "https://m.media-amazon.com/images/I/61YqfEHKZWL._SX575_.jpg",
+    "rating": {
+      "rate": 4.5,
+      "count": 430,
+      "bought": "1.7k bought in the last 30 days"
+    }
+  },
+  {
+    "id": 20,
+    "title": "Kindle Paperwhite Signature",
+    "price": 18000,
+    "description": "32GB storage, auto-adjusting front light, and wireless charging.",
+    "category": "e-readers",
+    "image": "https://m.media-amazon.com/images/I/515Z2glAStL._SL1000_.jpg",
+    "rating": {
+      "rate": 4.8,
+      "count": 380,
+      "bought": "1.5k bought in the last 30 days"
     }
   }
 ]
