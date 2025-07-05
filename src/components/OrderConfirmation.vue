@@ -19,9 +19,7 @@
         <router-link to="/product-list" class="btn premium-continue-btn">
           Continue Shopping
         </router-link>
-        <router-link to="/orders" class="btn premium-orders-btn">
-          View Your Orders
-        </router-link>
+        
       </div>
     </div>
   </div>
@@ -113,14 +111,7 @@ export default {
   font-weight: 500;
 }
 
-.premium-orders-btn {
-  background: #ffffff;
-  color: #4f46e5;
-  border: 1px solid #4f46e5;
-  padding: 0.75rem 1.5rem;
-  border-radius: 8px;
-  font-weight: 500;
-}
+
 
 @media (max-width: 576px) {
   .premium-confirmation-card {
@@ -132,8 +123,7 @@ export default {
     gap: 0.75rem;
   }
   
-  .premium-continue-btn,
-  .premium-orders-btn {
+  .premium-continue-btn {
     width: 100%;
   }
 }

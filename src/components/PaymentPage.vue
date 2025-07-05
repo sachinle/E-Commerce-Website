@@ -337,23 +337,26 @@ export default {
     },
     
     validateAndProcessPayment() {
-      if (!this.validateForm()) {
-        return;
+  if (!this.validateForm()) {
+    return;
+  }
+  
+  this.processing = true;
+  
+  // Simulate payment processing with timeout
+  setTimeout(() => {
+    this.processing = false;
+    this.$router.push({
+      name: 'OrderConfirmation',
+      query: { 
+        amount: this.grandTotal.toFixed(2),
+        items: JSON.stringify(this.cartItems) // Pass cart items as JSON string
       }
-      
-      this.processing = true;
-      
-      // Simulate payment processing with timeout
-      setTimeout(() => {
-        this.processing = false;
-        this.$router.push({
-          name: 'OrderConfirmation',
-          query: { amount: this.grandTotal.toFixed(2) }
-        });
-        cart.clearCart();
-        eventBus.emit('cart-updated', 0);
-      }, 3000); // 3 second timeout for simulation
-    },
+    });
+    cart.clearCart();
+    eventBus.emit('cart-updated', 0);
+  }, 3000);
+},
     
     validateForm() {
       this.clearErrors();

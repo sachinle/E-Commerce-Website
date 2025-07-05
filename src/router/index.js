@@ -1,4 +1,5 @@
-import { createRouter, createWebHistory } from 'vue-router'
+import { createRouter, createWebHashHistory } from 'vue-router'
+
 import WelcomePage from '@/components/WelcomePage.vue'
 import ProductList from '@/components/ProductList.vue'
 import CartPage from '@/components/CartPage.vue'
@@ -29,21 +30,20 @@ const routes = [
     component: CartPage
   },
   {
-  path: '/payment',
-  name: 'PaymentPage',
-  component: PaymentPage
-},
-{
-  path: '/order-confirmation',
-  name: 'OrderConfirmation',
-  component: OrderConfirmation,
-  props: route => ({ amount: route.query.amount || '0.00' })
-}
-
+    path: '/payment',
+    name: 'PaymentPage',
+    component: PaymentPage
+  },
+  {
+    path: '/order-confirmation',
+    name: 'OrderConfirmation',
+    component: OrderConfirmation,
+    props: route => ({ amount: route.query.amount || '0.00' })
+  }
 ]
 
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHashHistory(), // 🔧 Use hash mode for GitHub Pages
   routes
 })
 

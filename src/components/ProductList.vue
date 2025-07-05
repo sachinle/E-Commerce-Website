@@ -53,7 +53,7 @@ export default {
   },
   computed: {
     limitedProducts() {
-      return this.products.slice(0, 10)
+      return this.products.slice(0, 12)
     }
   },
   methods: {

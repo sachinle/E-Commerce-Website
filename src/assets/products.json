@@ -128,5 +128,31 @@
       "count": 340,
       "bought": "1.2k bought in the last 30 days"
     }
+  },
+  {
+    "id": 11,
+    "title": "Amazon Echo Dot (5th Gen)",
+    "price": 6250,
+    "description": "Smart speaker with Alexa – control smart home, stream music, and get news updates.",
+    "category": "smart-devices",
+    "image": "https://m.media-amazon.com/images/I/81VttNsrDwL._SX679_.jpg",
+    "rating": {
+      "rate": 4.6,
+      "count": 340,
+      "bought": "1.2k bought in the last 30 days"
+    }
+  },
+  {
+    "id": 12,
+    "title": "Amazon Echo Dot (5th Gen)",
+    "price": 6250,
+    "description": "Smart speaker with Alexa – control smart home, stream music, and get news updates.",
+    "category": "smart-devices",
+    "image": "https://m.media-amazon.com/images/I/81VttNsrDwL._SX679_.jpg",
+    "rating": {
+      "rate": 4.6,
+      "count": 340,
+      "bought": "1.2k bought in the last 30 days"
+    }
   }
 ]
